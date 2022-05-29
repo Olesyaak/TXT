@@ -1,0 +1,5 @@
+	name: Olesia
+	age:36 
+	pets number: 1 
+	expecting salary: $ 6000
+
